@@ -1,0 +1,13 @@
+.footer {
+    background: #262626;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    z-index: 10;
+    box-shadow: 0px 3px 17px 9px #a30000;
+    padding: 15px;
+    box-sizing: border-box;
+    img{
+        width: 15%;
+    }
+}

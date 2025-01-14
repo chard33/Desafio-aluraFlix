@@ -1,0 +1,70 @@
+.formF {
+    max-width: 400px;
+    color: #A5A5A5;
+
+    button {
+        padding: 5px 25px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    label {
+        cursor: pointer;
+    }
+}
+
+.inputF {
+    font-size: 16px;
+    width: 100%;
+    margin: 10px 0 15px 0;
+    background: none;
+    border: 2px solid #2271D1;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #A5A5A5;
+    cursor: pointer;
+}
+
+.selectF {
+    width: 100%;
+    margin: 10px 0 15px 0;
+    background: none;
+    border: 2px solid #2271D1;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #A5A5A5;
+    cursor: pointer;
+}
+
+.textareaF {
+    width: 100%;
+    margin: 10px 0 15px 0;
+    background: none;
+    border: 2px solid #2271D1;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #A5A5A5;
+    cursor: pointer;
+}
+
+.buttonContainerF {
+    margin: 0 0 15px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonL {
+    border: 2px solid #2271D1;
+    background: none;
+    color: #2271D1;
+    box-shadow: inset 0 0 4px 0px #2271D1;
+}
+
+.buttonR {
+    border: 2px solid white;
+    background: none;
+    color: white;
+}
