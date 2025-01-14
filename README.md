@@ -16,7 +16,7 @@ Aluraflix es una plataforma diseñada para gestionar videos, con funcionalidades
 
 **CSS Modules**: Estilizado aïslado para evitar conflictos entre clases.
 
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://desafio-alura-flix-iota.vercel.app/NVideo)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://desafio-alura-flix-iota.vercel.app/)
 
 ### Backend
 
